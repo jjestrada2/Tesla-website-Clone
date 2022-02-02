@@ -2,6 +2,12 @@
 
 TeslaClone is a ReactNative App powered with expo
 
+# Pictures
+
+![image](https://user-images.githubusercontent.com/69777842/152090154-53c6867c-3c6a-41a9-bfa6-3f3bc0686429.png)
+![image](https://user-images.githubusercontent.com/69777842/152090248-96059436-4309-467f-82c4-7efe9afb1f71.png)
+![image](https://user-images.githubusercontent.com/69777842/152090283-530d0c38-20e9-407a-a63f-277dfdec792c.png)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
