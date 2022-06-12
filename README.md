@@ -1,6 +1,5 @@
 # TeslaClone
-
-TeslaClone is a ReactNative App powered with expo
+In this project, I use expo and react to build the homepage clone of the tesla website.
 
 # Pictures
 
